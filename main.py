@@ -1,6 +1,4 @@
 import pywhatkit
-import os
-
 
 def send_message_inst():
     mobile = input('Введите номер получателя: ')
